@@ -10,7 +10,7 @@
     "morphdom": "^1.1.4"
   },
   "name": "update-el",
-  "description": "Diff & patch a DOM element with its event listeners",
+  "description": "Diff and patch a DOM element with its event listeners",
   "version": "0.0.0",
   "main": "index.js",
   "directories": {
