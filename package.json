@@ -11,7 +11,7 @@
   },
   "name": "update-el",
   "description": "Diff and patch a DOM element with its event listeners",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "directories": {
     "test": "test"
